@@ -1,0 +1,2 @@
+# jali
+mining
